@@ -57,15 +57,15 @@ The project includes various visualizations, such as:
    cd netflix-dataset-analysis
 2. Install Required Dependencies
 
-To ensure the code runs smoothly, install the necessary dependencies:
+  To ensure the code runs smoothly, install the necessary dependencies:
 
-```bash
-pip install -r requirements.txt
+  ```bash
+  pip install -r requirements.txt
 
 3. Run the Jupyter Notebook:
 
-```bash
-jupyter notebook netflix_analysis.ipynb
+  ```bash
+  jupyter notebook netflix_analysis.ipynb
 
 ---
 Mahmoud Shoman
