@@ -63,7 +63,8 @@ The project includes various visualizations, such as:
   pip install -r requirements.txt
 
 3. Run the Jupyter Notebook:
-   
+
+  ```bash
   jupyter notebook netflix_analysis.ipynb
 
 ---
