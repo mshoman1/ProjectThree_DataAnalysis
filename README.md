@@ -60,7 +60,7 @@ The project includes various visualizations, such as:
   ```bash
   To ensure the code runs smoothly, install the necessary dependencies:
   pip install -r requirements.txt
-
+---
 ---
 Mahmoud Shoman
 mahmoud.kanh12@gmail.com
