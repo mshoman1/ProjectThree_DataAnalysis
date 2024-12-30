@@ -11,8 +11,6 @@ This project explores and analyzes the Netflix Titles dataset to uncover insight
 - [Key Findings](#key-findings)
 - [Visualizations](#visualizations)
 - [Technologies Used](#technologies-used)
-- [How to Run](#how-to-run)
-- [Contributions](#contributions)
 
 ## Introduction
 Netflix is one of the largest streaming platforms globally. Understanding its content library can provide insights into its strategy for audience engagement and content production. This project uses the `netflix_titles.csv` dataset to explore trends in content type, ratings, release years, and more.
@@ -50,17 +48,6 @@ The project includes various visualizations, such as:
   - **Matplotlib**: Data visualization.
   - **Seaborn**: Advanced visualizations.
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mshoman1/netflix-dataset-analysis.git
-   cd netflix-dataset-analysis
-   
-2. Install Required Dependencies
-  ```bash
-  To ensure the code runs smoothly, install the necessary dependencies:
-  pip install -r requirements.txt
----
 ---
 Mahmoud Shoman
 mahmoud.kanh12@gmail.com
