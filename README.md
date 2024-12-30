@@ -50,7 +50,9 @@ The project includes various visualizations, such as:
 
 ---
 Mahmoud Shoman
+
 mahmoud.kanh12@gmail.com
+
 https://www.facebook.com/m7moudkanh1/
 
 
