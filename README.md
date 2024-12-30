@@ -52,8 +52,8 @@ The project includes various visualizations, such as:
 
 ## How to Run
 1. Clone the repository:
-   
-   git clone https://github.com/yourusername/netflix-dataset-analysis.git
+   ```bash
+   git clone https://github.com/mshoman1/netflix-dataset-analysis.git
    cd netflix-dataset-analysis
    
 2. Install Required Dependencies
