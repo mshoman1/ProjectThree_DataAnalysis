@@ -52,16 +52,16 @@ The project includes various visualizations, such as:
 
 ## How to Run
 1. Clone the repository:
-   ```bash
    git clone https://github.com/yourusername/netflix-dataset-analysis.git
    cd netflix-dataset-analysis
+   
 2. Install Required Dependencies
   To ensure the code runs smoothly, install the necessary dependencies:
-  ```bash
   pip install -r requirements.txt
+
 3. Run the Jupyter Notebook:
-  ```bash
   jupyter notebook netflix_analysis.ipynb
+
 ---
 
 
