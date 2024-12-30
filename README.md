@@ -1,4 +1,5 @@
 # ProjectThree_DataAnalysis
+---
 # Netflix Dataset Analysis
 
 This project explores and analyzes the Netflix Titles dataset to uncover insights into Netflix's catalog, including Movies and TV Shows. The analysis includes univariate, bivariate, and multivariate explorations, supported by visualizations created using Python libraries like Matplotlib and Seaborn.
