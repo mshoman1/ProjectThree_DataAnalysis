@@ -58,6 +58,7 @@ The project includes various visualizations, such as:
    
 2. Install Required Dependencies
    
+  ```bash
   To ensure the code runs smoothly, install the necessary dependencies:
   pip install -r requirements.txt
 
